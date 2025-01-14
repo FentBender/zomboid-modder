@@ -56,7 +56,8 @@ root = tk.Tk()
 root.title("Zomboid Modder GUI")
 
 # Specify the path to your JSON file here
-modder_gui = ZomboidModderGUI(root, "C:/Users/SSDUSER/Documents/ZomboidMods/objects.json")
+modder_gui = ZomboidModderGUI(root, "D:/SSDUSER/Documents/GitHub/zomboid-modder/objects.json")
+
 
 
 root.mainloop()
