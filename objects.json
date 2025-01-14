@@ -1,0 +1,22 @@
+{
+    "gos_campfire.bin": {
+        "property_1": 999999999,
+        "property_2": 50
+    },
+    "gos_farming.bin": {
+        "property_1": 3271557120,
+        "property_2": 1
+    },
+    "gos_metaldrum.bin": {
+        "property_1": 3271557120,
+        "property_2": 0
+    },
+    "gos_rainbarrel.bin": {
+        "property_1": 3271557120,
+        "property_2": 0
+    },
+    "gos_trap.bin": {
+        "property_1": 3271557120,
+        "property_2": 0
+    }
+}
